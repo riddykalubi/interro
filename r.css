@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    position: static;
+    position: relative;
     top: 0;
     width: auto;
     padding: auto;
@@ -16,8 +16,8 @@ header {
     color: rgb(213, 222, 219);
     z-index: 1000;
     border-width: 2px 50px;
-    border-style: dotted;
-    border-color: white;
+    border-style: solid;
+    border-color: black;
     
 }
 a{
