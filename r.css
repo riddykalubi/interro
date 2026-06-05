@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: static;
+    top: 0;
+    width: auto;
+    padding: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center ;
+    background: rgba(211, 214, 217, 0.7); 
+    backdrop-filter: blur(10px);
+    color: rgb(4, 120, 89);
+    z-index: 1000;
+    border-width: 2px 50px;
+    border-style: dotted;
+    border-color: blueviolet;
+    border-radius: 50%;
+}
+nav{
+    text-decoration: tomato;
+}
+main{
+    
+    
+}
